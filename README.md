@@ -29,11 +29,14 @@ Kategorisierte Listen & dessen Elemente mit Teilen, welche für einen Camping-Ur
 |  |  | Cap |
 |  |  | Schal |
 |  |  | Accessoires |
-|  |  | Badesachen |
+|  |  | Badesachen (kl. Handtuch, gr. Handtuch) |
 |  |  | Bauchtasche |
-|  |  |  |
+|  |  | Jogging-Bauchtasche |
+|  |  | Regensachen (Jacke, Hose) |
+
 
 ----
+
 
 ### Hygiene & Medizinisches
 
@@ -102,8 +105,10 @@ Kategorisierte Listen & dessen Elemente mit Teilen, welche für einen Camping-Ur
 |  |  | Salatsauce/Sauce/Mayo/Ketchup |
 |  |  | Gewürze |
 |  |  | Zucker |
-|  |  |  |
-|  |  |  |
+|  |  | Sodastream |
+|  |  | Tupperware |
+|  |  | Proteinshake |
+|  |  | Kreatin |
 |  |  |  |
 
 ----
@@ -119,8 +124,12 @@ Kategorisierte Listen & dessen Elemente mit Teilen, welche für einen Camping-Ur
 |  |  | Kopfhörer + Ladekabel |
 |  |  | Nachtlicht |
 |  |  | Taschenlampe |
-|  |  |  |
-|  |  |  |
+|  |  | Kaffeemaschine / Senseo |
+|  |  | Wasserkocher |
+|  |  | Toaster |
+|  |  | Sandwichmaker |
+|  |  | Heißluftfriteuse |
+|  |  | Mixer für Shakes + Behälter |
 |  |  |  |
 
 ----
@@ -167,7 +176,11 @@ Kategorisierte Listen & dessen Elemente mit Teilen, welche für einen Camping-Ur
 |  |  | Kühltasche |
 |  |  | Picknickdecke |
 |  |  | Feuerzeug |
-|  |  |  |
+|  |  | Campingtisch |
+|  |  | Campingstühle |
+|  |  | Klotschen |
+|  |  | Handfeger & Kehrblech |
+|  |  | Glasstrohhalme |
 |  |  |  |
 
 ### Freizeit
@@ -177,10 +190,38 @@ Kategorisierte Listen & dessen Elemente mit Teilen, welche für einen Camping-Ur
 |  |  | diverse Gesellschaftsspiele |
 |  |  | Fußball |
 |  |  | Fahrrad |
-|  |  | Buch |
+|  |  | Bücher |
 |  |  | Rätsel |
-|  |  | Kondome |
+|  |  | Trainingsmatte (n) |
+|  |  | Fußball |
+|  |  | Stretch-Bänder |
+|  |  | DIN A4 Block kariert |
+|  |  | Bleistift / Kugelschreiber |
+|  |  | Regenklamotten |
+|  |  | Federballset |
 |  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+
+# Vorbereiten
+
+- Strümpfe/Unterwäsche bestellen
+- Lebensmittel einkaufen
+- vorher Sarahs Auto auf Parkplatz stellen
+- über Wifi vor Ort informieren
+- über Internet in der Schweiz informieren
+- für Camping: über Steckdosen, Wasseranschluss & Schmutzwasserentsorgung informieren
+- Camper-Van: Markise auch Wind- und Wetterfest?
+- Vignette/Maut für Schweiz & Österreich
+- Badeschuhe
+- Fahrräder
+- Fahrrad-Reparaturset
+- Luftpumpe
+- Gasflasche
+- Wäscheklammern
+- Kühlpacks für Kühlschrank
+- Sodastream-Flasche
+- Kaffemaschine, Instant-Kaffe, Senseo
+- Wasserkocher
+- Toaster
+- 
+
+
